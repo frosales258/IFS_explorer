@@ -1,4 +1,4 @@
-# IFS-explorer
+# IFS explorer
 _A python3 visualization tool for integral field spectroscopy (IFS) data_
 
 ### Installation
